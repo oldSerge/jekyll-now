@@ -3,13 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Sergio Porres
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Fealty Dev Log
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars0.githubusercontent.com/u/4501925?s=400&u=3d35a9bd765e61ce8f97c06af622436cfd89ca81&v=4
+
 
 #
 # Flags below are optional
